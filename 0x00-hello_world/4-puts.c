@@ -1,2 +1,10 @@
-#!/bin/bash
-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
+#include <stdio.h>
+ /**
+  * * main - Entry
+  * return: Always )
+  */
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
