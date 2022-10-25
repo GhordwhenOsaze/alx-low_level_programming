@@ -2,6 +2,7 @@
 
 /**
  * puts_half - Print half a str
+ * @str: a printer
  */
 
 void puts_half(char *str)
@@ -21,5 +22,5 @@ void puts_half(char *str)
 
 	_putchar('\n');
 }
-Footer
+
 
